@@ -1,7 +1,7 @@
 
 [![Header](./dino.gif "Header")](https://doomhammerhell.github.io/)
 
-# Hello, folks! <img src="./wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/doomhammerhell/doomhammerhell/main/source.gif" width="30px">
 
 My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack Engineer. Living in Rjukan, Norway and currently working at Ascent Tech. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
