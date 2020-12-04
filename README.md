@@ -7,7 +7,7 @@ My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [doomhammerhell.github.io](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@mayckongiovani) and [DEV.to](https://dev.to/mayckongiovani).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [doomhammerhell.github.io](https://doomhammerhell.github.io/) as well as on [Medium](https://medium.com/@mayckongiovani) and [DEV.to](https://dev.to/mayckongiovani).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
