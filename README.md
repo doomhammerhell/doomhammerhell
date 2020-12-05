@@ -18,6 +18,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1)
 ![](https://img.shields.io/badge/OS-AlpineLinux-informational?style=for-the-badge&logo=alpinelinux&logoColor=white&color=0D597F)
+![](https://img.shields.io/badge/OS-UbuntuServer-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Library-QuTiP-informational?style=for-the-badge&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
