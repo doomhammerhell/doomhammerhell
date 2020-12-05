@@ -10,12 +10,12 @@ My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack
 Apart from coding, I also maintain a blog - you can find my articles on my website at [doomhammerhell.github.io](https://doomhammerhell.github.io/) as well as on [Medium](https://medium.com/@mayckongiovani) and [DEV.to](https://dev.to/mayckongiovani).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-ArchLinux-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=0175C2)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-ArchLinux-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
