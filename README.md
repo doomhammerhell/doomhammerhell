@@ -45,6 +45,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Buddy-informational?style=for-the-badge&logo=buddy&logoColor=white&color=1A86FD)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white&color=3A52FD)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=C21325)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=#232F3E)
+![](https://img.shields.io/badge/Cloud-IBMCloud-informational?style=for-the-badge&logo=ibm&logoColor=white&color=#054ADA)
+![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=#4285F4)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=0080FF)
 
 ## &#x1f4c8; GitHub Stats
