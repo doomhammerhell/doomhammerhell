@@ -7,7 +7,7 @@ My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [my pensieve](https://mayckongiovani.me/pensieve).
+Apart from coding, I also maintain a blog - you can find my articles on [my pensieve](https://mayckongiovani.me/pensieve).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
