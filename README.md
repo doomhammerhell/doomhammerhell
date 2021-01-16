@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/doomhammerhell/doomhammerhell/main/source.gif" width="30px">
 
-My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack Engineer. Living in Rjukan, Norway and currently working at [Stigning](https://stigning.online). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack Engineer. Living in Rjukan, Norway and currently working at [Stigning](https://stigning.online), my own digital design agency. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
