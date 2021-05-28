@@ -60,7 +60,7 @@ Apart from coding, I spend my time doing mountaineering, skating, surfing, split
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/doomhammerhell/doomhammerhell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomhammerhell&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomhammerhell&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/doomhammerhell/doomhammerhell">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doomhammerhell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mayckon's GitHub Stats" />
