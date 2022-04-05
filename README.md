@@ -3,13 +3,13 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/doomhammerhell/doomhammerhell/main/source.gif" width="30px">
 
-My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack Engineer. Living in Rjukan, Norway and currently working at [Stigning](https://stigning.online), my own digital design agency. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Full Stack Engineer. Living in Rjukan, Norway and currently working at [Stigning](https://stigning.vercel.app), my own digital design agency. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <a href="https://www.codementor.io/@mayckongiovani?refer=badge"><img src="https://www.codementor.io/m-badges/mayckongiovani/book-session.svg" alt="Codementor badge"></a>
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I spend my time doing mountaineering, skating, surfing, splitboarding, and snowboarding. I also maintain a blog - you can find my articles on [my personal blog](https://mayckongiovani.me/pensieve).
+Apart from coding, I spend my time doing mountaineering, skating, surfing, splitboarding, and snowboarding. I also maintain a blog - you can find my articles on [my personal blog](https://mayckongiovani.vercel.app/pensieve).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
