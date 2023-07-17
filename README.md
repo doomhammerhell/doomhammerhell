@@ -5,7 +5,7 @@
 
 My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Software Engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<a href="https://www.codementor.io/@mayckongiovani?refer=badge"><img src="https://www.codementor.io/m-badges/mayckongiovani/book-session.svg" alt="Codementor badge"></a>
+[![Contact me on Codementor](https://www.codementor.io/m-badges/mayckongiovani/book-session.svg)](https://www.codementor.io/@mayckongiovani?refer=badge)
 
 ## &#x270d; Blog & Writing
 
