@@ -19,15 +19,7 @@ Apart from coding, I spend my time mountaineering, skating, surfing, splitboardi
 <a href="https://github.com/doomhammerhell/doomhammerhell">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doomhammerhell&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mayckon's GitHub Stats" />
 </a>
-
-<a href="https://github.com/doomhammerhell/deno-smtp-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doomhammerhell&repo=quantum-tunneler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/doomhammerhell/odoo-install-script">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doomhammerhell&repo=pqc-iiot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  
 
 <!-- links to social media icons -->
 
