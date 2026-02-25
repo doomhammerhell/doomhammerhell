@@ -1,50 +1,114 @@
+<p align="center">
+  <img src="./dino.gif" width="100%">
+</p>
 
-[![Header](./dino.gif "Header")](https://doomhammerhell.github.io/)
+# Mayckon Giovani  
+### Principal Systems Engineer • Distributed Systems • Post-Quantum Infrastructure
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/doomhammerhell/doomhammerhell/main/source.gif" width="5%">
+I design and harden security-critical systems under adversarial conditions.
 
-My name is Mayckon Giovani and I'm a Quantum Computing Researcher and Software Engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My work operates at the intersection of:
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/mayckongiovani/book-session.svg)](https://www.codementor.io/@mayckongiovani?refer=badge)
+- Post-Quantum Cryptography
+- Distributed Financial Infrastructure
+- Blockchain Protocol Engineering
+- Secure IIoT Communication
+- High-Performance Rust Backends
+- Zero-Trust Architecture
 
-## &#x270d; Blog & Writing
+I don’t focus on shipping features.
 
-Apart from coding, I spend my time mountaineering, skating, surfing, splitboarding, and snowboarding. I also maintain a blog - you can find my articles [here](https://mayckongiovani.vercel.app/pensieve).
+I focus on enforcing invariants.
 
-## &#x1f4c8; GitHub Stats
+---
 
-<a href="https://github.com/doomhammerhell/doomhammerhell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomhammerhell&hide=java,html,css,scss,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/doomhammerhell/doomhammerhell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doomhammerhell&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mayckon's GitHub Stats" />
-</a>
-  
+## 🧭 Engineering Doctrine
 
-<!-- links to social media icons -->
+Systems fail at boundaries.
 
-<!-- icons with padding -->
+My approach:
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+- Define invariants first
+- Model failure surfaces explicitly
+- Assume adversarial actors
+- Design for asymmetric degradation
+- Engineer for long-horizon maintainability
 
-<!-- icons without padding -->
+---
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/doomhammerhell/doomhammerhell/main/linkedin-3-16.png (LinkedIn icon without padding)
+## 🔬 Current Focus Areas
 
+- Post-Quantum Key Exchange & Signature Systems (Kyber / Falcon)
+- Deterministic State Machines for Financial Ledgers
+- Protocol-level Attack Surface Analysis
+- Failure Models & Partial Partition Tolerance
+- Zero-Knowledge Execution Models
+- Cryptographic Infrastructure for Hostile Environments
+- Memory-constrained systems (`no_std`, heapless Rust)
 
-<!-- links to your social media accounts -->
+---
 
-[1]: https://twitter.com/CreatorOfChaos
-[2]: https://github.com/doomhammerhell
-[3]: https://www.linkedin.com/in/mayckon-giovani/
+## 🧱 Selected Projects
 
+### 🧠 PQC-IIoT  
+Post-Quantum secure communication layer for Industrial IoT systems.  
+Zero-allocation Rust, Kyber-based handshake, heapless architecture.
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+### 🔐 Q-Trust Plane  
+Zero-trust governance infrastructure focused on cryptographic control planes.
+
+### 🌀 Helix Protocol  
+Adversarially hardened decentralized execution architecture.
+
+### 📊 Atlas DeFi  
+Multi-chain financial portfolio intelligence platform.
+
+---
+
+## 📚 Technical Writing
+
+I publish deep technical articles on:
+
+- Distributed ledger invariants
+- Post-quantum cryptographic systems
+- Partition tolerance & failure modeling
+- Financial infrastructure correctness
+- Adversarial execution environments
+
+Technical articles:
+→ https://dev.to/doomhammerhell
+
+Long-form essays & research notes:
+→ https://mayckongiovani.vercel.app/pensieve
+
+---
+
+## ⚙️ Core Stack & Domains
+
+**Languages**
+Rust • Go • TypeScript • Solidity
+
+**Infrastructure**
+PostgreSQL • SurrealDB • Kubernetes • Docker • GitLab CI/CD
+
+**Blockchain**
+Ethereum • Polkadot • EVM • Smart Contracts • MPC
+
+**Security & Cryptography**
+Kyber • Falcon • Zero-Knowledge • Threat Modeling • Protocol Auditing
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doomhammerhell&theme=github-compact&hide_border=true">
+</p>
+
+---
+
+## 🌍 Connect
+
+- LinkedIn → https://linkedin.com/in/mayckon-giovani
+- Twitter/X → https://twitter.com/CreatorOfChaos
+- Dev.to → https://dev.to/doomhammerhell
